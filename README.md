@@ -1,1 +1,1 @@
-There're all my completes tasks for ML course.
+There're all my completed assignments for ML course.
