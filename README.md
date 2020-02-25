@@ -1,1 +1,1 @@
-There're all my tasks for Standford's ML course.
+There're all my completes tasks for ML course.
